@@ -1,0 +1,4 @@
+module CNIOSHA1 {
+    umbrella "/Volumes/Drive/DataBase/Hello/.build/checkouts/swift-nio.git-7491120766885759011/Sources/CNIOSHA1/include"
+    export *
+}

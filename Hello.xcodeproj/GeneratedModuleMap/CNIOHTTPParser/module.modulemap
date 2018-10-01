@@ -1,0 +1,4 @@
+module CNIOHTTPParser {
+    umbrella "/Volumes/Drive/DataBase/Hello/.build/checkouts/swift-nio.git-7491120766885759011/Sources/CNIOHTTPParser/include"
+    export *
+}
